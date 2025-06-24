@@ -9,8 +9,6 @@ A real-time AI battle simulation where autonomous bots with different behavioral
 
 A real-time AI battle simulation where autonomous bots with different behavioral patterns fight in an arena. Perfect for learning Object-Oriented Programming (OOP) concepts and basic AI algorithms.
 
-![Arena Screenshot](https://via.placeholder.com/800x400/1a1a2e/ffffff?text=AI+Bot+Arena+Battle+Simulation)
-
 ## 🎯 Project Overview
 
 AI Bot Arena is an educational programming project that demonstrates:
